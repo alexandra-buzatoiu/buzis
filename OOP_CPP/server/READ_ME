@@ -1,0 +1,3 @@
+Aplicatie Client-Server ce deserveste organizarea orarului si pontajul profesorilor incadrati la universitate.
+Programul este dezvoltat in limbajul POO C++ iar interfata grafica a fost realizata cu ajutorul framework-ului QT.
+Baza de date SSMS.
